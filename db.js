@@ -1,0 +1,22 @@
+{
+ "flashcard": [
+    { "id": 1, "word": "Rich","upload_path" : null, 
+     "AnswerOption": ["Poor","Rich","Worth"]
+    },
+    { "id": 2,
+     "word": null,
+     "upload_path": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
+     "AnswerOption": ["Good","Well","Best"]
+    },
+    { "id": 3, 
+     "word": "flag",
+     "Upload_path": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
+     "AnswerOption": ["Poor","Rich","Worth"]
+    },
+    { "id": 3, 
+     "word": "flag",
+     "Upload_path": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
+     "AnswerOption": ["Poor","Rich","Worth"]
+    }
+  ]
+}
