@@ -1,22 +1,37 @@
 {
- "flashcard": [
-    { "id": 1, "word": "Rich","upload_path" : null, 
-     "AnswerOption": ["Poor","Rich","Worth"]
+  "1": 
+    { 
+     "id": 1,
+     "typeId": 1,
+     "word": "Giàu có",
+     "uploadPath" : null,
+     "rightAnswer" : "Rich",
+     "answerOption": ["Poor","Rich","Worth"]
     },
-    { "id": 2,
+ 
+   "2":
+    { 
+     "id": 2,
+     "typeId": 2,
      "word": null,
-     "upload_path": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
-     "AnswerOption": ["Good","Well","Best"]
+     "uploadPath": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
+     "rightAnswer" : "Money",
+     "answerOption": ["Money","Gold","Orange"]
     },
-    { "id": 3, 
-     "word": "flag",
-     "Upload_path": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
-     "AnswerOption": ["Poor","Rich","Worth"]
+    
+ "3":{ "id": 3, 
+     "typeId": 2,
+     "word": null,
+     "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
+     "rightAnswer" : "Flag",
+     "answerOption": ["Book","Ball","Flag"]
     },
-    { "id": 3, 
-     "word": "flag",
-     "Upload_path": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
-     "AnswerOption": ["Poor","Rich","Worth"]
+  
+ "4":{ "id": 4, 
+     "typeId": 3,
+     "word": "Quả bóng",
+     "uploadPath": "https://www.balloonsandweights.com/wp-content/uploads/2014/10/Mini-Foam-Soccer-Ball-Back-Side-BalloonsAndWeights.com_.jpg",
+     "rightAnswer" : "Ball",
+     "answerOption": ["Car","Ball","Phone"]
     }
-  ]
 }
